@@ -1,5 +1,5 @@
 No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Links
-1,16,CPG1511F01S04,"SW6,SW7,SW8,SW9,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29",KEY-TH_CPG1511F01S0X,,CPG1511F01S04,Kailh(凯华),C400226,https://www.lcsc.com/product-detail/C400226.html?s_z=n_C400226
+1,16,CPG1511F01S04,"SW6,SW7,SW8,SW9,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29",KEY-TH_CPG1511F01S0X,,CPG1511F01S04,Kailh(凯华),C400226,https://www.kailh.net/products/kailh-box-switch-set?variant=43810892284146
 2,4,100nF,"C11,C12,C13,C14",C0402,100nF,CL05B104KB54PNC,SAMSUNG(三星),C307331,https://www.lcsc.com/product-detail/C307331.html?s_z=n_C307331
 3,3,10uF,"C5,C7,C8",C0603,10uF,CL10A106KP8NNNC,SAMSUNG(三星),C19702,https://www.lcsc.com/product-detail/C19702.html?s_z=n_C19702
 4,2,5.1kΩ,"R1,R2",R0603,5.1kΩ,0603WAF5101T5E,UNI-ROYAL(厚声),C23186,https://www.lcsc.com/product-detail/C23186.html?s_z=n_C23186
