@@ -16,7 +16,7 @@ The hardware consists of:
 - 16 Kalih BOX switches
 - Alps Alpine rotary encoder
 - USB-C port for charging and programing
-- 18650 260OmAh 3.7V battery
+- 18650 2600mAh 3.7V battery
 
 # How to use
 1. Plug in the macropad via cable to your computer.
